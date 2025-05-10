@@ -2,7 +2,7 @@
 
 ## Objective 
 
-The goal of this project is to simulate the use of time-of-flight (TOF) techniques for particle identification (PID) based on the relativistic velocity (β) of particles with varying masses and momenta. Detector uncertainties are taken into account and the timing resoluation is estimated so that four specific particles (electrons, pions, kaons, and protons) can be distinguished.
+The goal of this project is to simulate the use of time-of-flight (TOF) techniques for particle identification (PID) based on the relativistic velocity (β) of particles with varying masses and momenta. Detector uncertainties are taken into account and the timing resolution is estimated so that four specific particles (electrons, pions, kaons, and protons) can be distinguished.
 
 ### Constants and Kinematics 
 
